@@ -6,9 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Maher Alkendi",
-  "license": "ISC",
+  "author": "Allard van der Willik",
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^4.16.4"
   }
 }
